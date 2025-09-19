@@ -18,9 +18,11 @@ redirect_from:
 
 Hello, I'm Fengyu Liu, a Ph.D. student in the System and Software Security Laboratory at Fudan University, advised by Prof. [Yuan Zhang](https://yuanxzhang.github.io/) and Prof. [Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en). I am also the captain of Whitzard, a great CTF team at Fudan University.
 
-My research interests includes **web security** and **LLM-based agent security**. To date, I have published 8 papers at top-tier international security conferences, including IEEE S&P, ACM CCS, and USENIX Security, with one receiving the Distinguished Paper Award at S&P'25. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
+My research interests includes **web security** and **LLM-based agent security**. To date, I have published several papers at top-tier international security conferences, including IEEE S&P, ACM CCS, USENIX Security, TIFS, and TSE, with one receiving the Distinguished Paper Award at S&P'25. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
 
 # 🔥 News
+- [*2025.09*] &nbsp;🎉 One paper accepted by **TIFS 2025**!
+- [*2025.09*] &nbsp;🎉 One paper accepted by **TSE 2025**!
 - [*2025.08*] &nbsp;🎉 One paper accepted by **CCS 2025**!
 - [*2025.08*] &nbsp;🎉 One paper received <span style="color:#B00C00">**Honerable Mention Award**</span> at USENIX Security 2025!
 - [*2025.06*] &nbsp;🎉 Three papers accepted by **USENIX Security 2025**!
@@ -33,8 +35,16 @@ My research interests includes **web security** and **LLM-based agent security**
 
 
 # 📝 Publications 
+- `TIFS'25` **Facilitating Access Control Vulnerability Detection in Modern Java Web Applications with Accurate Permission Check Identification** [PDF]  
+  Youkun Shi, <u>Fengyu Liu</u>, Guangliang Yang, Yuan Zhang, Yinzhi Cao, Enhao Li, Xin Tan, Xiapu Luo, Min Yang, Siyi Chen.   
+  In *IEEE Transactions on Information Forensics and Security*, 2025. (<span style="color:#B00C00">CCF-A</span>)  
+
+- `TSE'25` **PHPJoy: A Novel Extended Graph-based PHP Code Analysis Framework** [PDF]  
+  Youkun Shi, Yuan Zhang, Tianhan Luo, Guangliang Yang, Shengke Ye, Chengyu Yang, <u>Fengyu Liu</u>, Xiapu Luo, Min Yang.   
+  In *IEEE Transactions on Software Engineering*, 2025. (<span style="color:#B00C00">CCF-A</span>)  
+
 - `CCS'25` **Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications** [PDF]  
-  Qiyi Zhang<sup>\*</sup>, <u>Fengyu Liu<sup>*</sup></u>, Zihan Lin, Yuan Zhang.  
+  Qiyi Zhang<sup>\*</sup>, <u>Fengyu Liu<sup>*</sup></u>, Zihan Lin, Yuan Zhang (* co-first authors).  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025. (<span style="color:#B00C00">CCF-A</span>)  
 
 - `USENIX Security'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [[PDF](/paper/agentfuzz-security25.pdf)]  
