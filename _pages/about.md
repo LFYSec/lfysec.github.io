@@ -21,6 +21,7 @@ Hello, I'm Fengyu Liu, a Ph.D. student in the System and Software Security Labor
 My research interests includes **web security** and **LLM-based agent security**. To date, I have published several papers at top-tier international security conferences, including IEEE S&P, ACM CCS, USENIX Security, TIFS, and TSE, with one receiving the Distinguished Paper Award at S&P'25. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
 
 # 🔥 News
+- [*2025.09*] &nbsp;🎉 One talk accepted by **BlackHat Europe 2025**!
 - [*2025.09*] &nbsp;🎉 One paper accepted by **TIFS 2025**!
 - [*2025.09*] &nbsp;🎉 One paper accepted by **TSE 2025**!
 - [*2025.08*] &nbsp;🎉 One paper accepted by **CCS 2025**!
@@ -50,6 +51,7 @@ My research interests includes **web security** and **LLM-based agent security**
 - `USENIX Security'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [[PDF](/paper/agentfuzz-security25.pdf)]  
   <u>Fengyu Liu</u>, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, Youkun Shi, Ke Li, Hao Chen, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
+  Presented at **BlackHat Europe 2025** [[Talk Abstract](https://www.blackhat.com/eu-25/briefings/schedule/#turn-agent-against-themselves-detecting-and-exploiting-taint-style-flaws-in-llm-based-agents-48117)]
   
 - `USENIX Security'25` **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
   Bocheng Xiang, Yuan Zhang, <u>Fengyu Liu</u>, Hao Huang, Zihan Lin, Min Yang.  
