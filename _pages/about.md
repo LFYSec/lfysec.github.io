@@ -18,10 +18,11 @@ redirect_from:
 
 Hello, I'm Fengyu Liu, a Ph.D. student in the System and Software Security Laboratory at Fudan University, advised by Prof. [Yuan Zhang](https://yuanxzhang.github.io/) and Prof. [Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en). I am also the captain of Whitzard, a great CTF team at Fudan University.
 
-My research interests includes **web security** and **LLM-based agent security**. To date, I have published several papers at top-tier international security conferences, including IEEE S&P, ACM CCS, USENIX Security, TIFS, and TSE, with one receiving the Distinguished Paper Award at S&P'25. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
+My research interests includes **web security** and **LLM-based agent security**. To date, I have published several papers at top-tier international security conferences, including IEEE S&P, ACM CCS, USENIX Security, TIFS, and TSE, and have received **Distinguished Paper Awards** from both **S&P'25** and **CCS'25**. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
 
 # 🔥 News
-- [*2025.09*] &nbsp;🎉 One talk accepted by **BlackHat Europe 2025**!
+- [*2025.10*] &nbsp;🎉 Our paper received <span style="color:#B00C00">**Distinguished Paper Award**</span> at ACM CCS 2025!
+- [*2025.10*] &nbsp;🎉 One talk accepted by **BlackHat Europe 2025**!
 - [*2025.09*] &nbsp;🎉 One paper accepted by **TIFS 2025**!
 - [*2025.09*] &nbsp;🎉 One paper accepted by **TSE 2025**!
 - [*2025.08*] &nbsp;🎉 One paper accepted by **CCS 2025**!
@@ -51,7 +52,7 @@ My research interests includes **web security** and **LLM-based agent security**
 - `USENIX Security'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [[PDF](/paper/agentfuzz-security25.pdf)]  
   <u>Fengyu Liu</u>, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, Youkun Shi, Ke Li, Hao Chen, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
-  Presented at **BlackHat Europe 2025** [[Talk Abstract](https://www.blackhat.com/eu-25/briefings/schedule/#turn-agent-against-themselves-detecting-and-exploiting-taint-style-flaws-in-llm-based-agents-48117)]
+  Presented at **BlackHat Europe 2025** [[Talk Abstract](https://www.blackhat.com/eu-25/briefings/schedule/#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117)]
   
 - `USENIX Security'25` **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
   Bocheng Xiang, Yuan Zhang, <u>Fengyu Liu</u>, Hao Huang, Zihan Lin, Min Yang.  
@@ -65,6 +66,7 @@ My research interests includes **web security** and **LLM-based agent security**
 - `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [PDF]  
   <u>Fengyu Liu</u>, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025. (<span style="color:#B00C00">CCF-A</span>)  
+  **<font color="#B00C00">&#9733; Distinguished Paper Award (<1% submission)</font>**
 
 - `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications** [[PDF](/paper/mscan-oakland25.pdf)]  
   <u>Fengyu Liu</u>, Yuan Zhang, Tian Chen, Youkun Shi, Guangliang Yang, Zihan Lin Min Yang, Junyao He, Qi Li.  
