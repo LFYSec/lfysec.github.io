@@ -99,7 +99,7 @@ My research interests includes **web security** and **LLM-based agent security**
 - 2022, Tencent Business Breakthrough Award
 
 
-# 🏆 Selected Competition
+# 🏆 Selected Competitions
 - 2022, 🏆 Champion, 4th "QiangWang" Cup International Elite Challenge On Cyber Mimic Defense (￥80,000)
 - 2021, 🏆 Champion, 6th XCTF International League (￥100,000)
 - 2021, 🏆 Champion, 13th National College Student Information Security Contest 
