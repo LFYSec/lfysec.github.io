@@ -88,9 +88,9 @@ My research interests includes **web security** and **LLM-based agent security**
 
 
 # 🎖 Honors and Awards
-- 2025, ByteDance Jindouyun Program Offer
-- 2025, Alibaba Star Program Offer
-- 2025, Tencent Qingyun Program Offer
+- 2025, [ByteDance Jindouyun Program Offer](https://jobs.bytedance.com/campus/jindouyun)
+- 2025, [Alibaba A-Star Program Offer](https://talent.alibaba.com/activity/ali-star)
+- 2025, [Tencent Qingyun Program Offer](https://join.qq.com/qingyun.html)
 - 2025, Honorable Mention Award, 34th USENIX Security Symposium (Top 25 Papers)
 - 2025, Distinguished Paper Award, 32nd ACM Conference on Computer and Communications Security (<1% submission)
 - 2025, Distinguished Paper Award, 46th IEEE Symposium on Security and Privacy (<1% submission)
