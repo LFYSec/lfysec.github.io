@@ -88,6 +88,7 @@ My research interests includes **web security** and **LLM-based agent security**
 
 
 # 🎖 Honors and Awards
+- 2025, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
 - 2025, [ByteDance Jindouyun Program Offer](https://jobs.bytedance.com/campus/jindouyun)
 - 2025, [Alibaba A-Star Program Offer](https://talent.alibaba.com/activity/ali-star)
 - 2025, [Tencent Qingyun Program Offer](https://join.qq.com/qingyun.html)
