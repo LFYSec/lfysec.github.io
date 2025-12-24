@@ -21,19 +21,21 @@ Hello, I'm Fengyu Liu, a Ph.D. student in the System and Software Security Labor
 My research interests includes **web security** and **LLM-based agent security**. To date, I have published several papers at top-tier international security conferences, including IEEE S&P, ACM CCS, USENIX Security, TIFS, and TSE, and have received **Distinguished Paper Awards** from both **S&P'25** and **CCS'25**. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
 
 # 🔥 News
+- [*2025.12*] &nbsp;🎉 One paper accepted by **USENIX Security 2026**!
+- [*2025.12*] &nbsp;🎉 One paper accepted by **NDSS 2026**!
 - [*2025.10*] &nbsp;🎉 Our paper received <span style="color:#B00C00">**Distinguished Paper Award**</span> at ACM CCS 2025!
 - [*2025.10*] &nbsp;🎉 One talk accepted by **BlackHat Europe 2025**!
 - [*2025.09*] &nbsp;🎉 One paper accepted by **TIFS 2025**!
 - [*2025.09*] &nbsp;🎉 One paper accepted by **TSE 2025**!
-- [*2025.08*] &nbsp;🎉 One paper accepted by **CCS 2025**!
+- [*2025.08*] &nbsp;🎉 One paper accepted by **ACM CCS 2025**!
 - [*2025.08*] &nbsp;🎉 One paper received <span style="color:#B00C00">**Honerable Mention Award**</span> at USENIX Security 2025!
 - [*2025.06*] &nbsp;🎉 Three papers accepted by **USENIX Security 2025**!
 - [*2025.05*] &nbsp;🎉 One talk accepted by **BlackHat USA 2025**!
 - [*2025.05*] &nbsp;🎉 Our paper received <span style="color:#B00C00">**Distinguished Paper Award**</span> at IEEE S&P 2025!
-- [*2025.03*] &nbsp;🎉 One paper accepted by **CCS 2025**!
-- [*2025.03*] &nbsp;🎉 One paper accepted by **S&P 2025**!
+- [*2025.03*] &nbsp;🎉 One paper accepted by **ACM CCS 2025**!
+- [*2025.03*] &nbsp;🎉 One paper accepted by **IEEE S&P 2025**!
 - [*2024.12*] &nbsp;🎉 One paper accepted by **USENIX Security 2025**!
-- [*2024.09*] &nbsp;🎉 One paper accepted by **S&P 2025**!
+- [*2024.09*] &nbsp;🎉 One paper accepted by **IEEE S&P 2025**!
 
 
 # 📖 Educations
@@ -42,6 +44,14 @@ My research interests includes **web security** and **LLM-based agent security**
 
 
 # 📝 Publications 
+- `USENIX Security'26` **Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents** [PDF]  
+  Jiaqi Luo, Jiarun Dai, <u>Fengyu Liu</u>, Songyang Peng, Youkun Shi, Tong Bu, Geng Hong, Xudong Pan, Yuan Zhang.  
+  In Proceedings of the 35th USENIX Security Symposium (USENIX Security), Baltimore, MD, USA, August 12-14, 2026. (<span style="color:#B00C00">CCF-A</span>)
+
+- `NDSS'26` **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [PDF]  
+  Bocheng Xiang, Yuan Zhang, Hao Huang, <u>Fengyu Liu</u>, Youkun Shi.  
+  In *Proceedings of the Network and Distributed System Security (NDSS)*, February 2026. (<span style="color:#B00C00">CCF-A</span>)  
+
 - `TIFS'25` **Facilitating Access Control Vulnerability Detection in Modern Java Web Applications with Accurate Permission Check Identification** [PDF]  
   Youkun Shi, <u>Fengyu Liu</u>, Guangliang Yang, Yuan Zhang, Yinzhi Cao, Enhao Li, Xin Tan, Xiapu Luo, Min Yang, Siyi Chen.   
   In *IEEE Transactions on Information Forensics and Security*, 2025. (<span style="color:#B00C00">CCF-A</span>)  
@@ -50,12 +60,12 @@ My research interests includes **web security** and **LLM-based agent security**
   Youkun Shi, Yuan Zhang, Tianhan Luo, Guangliang Yang, Shengke Ye, Chengyu Yang, <u>Fengyu Liu</u>, Xiapu Luo, Min Yang.   
   In *IEEE Transactions on Software Engineering*, 2025. (<span style="color:#B00C00">CCF-A</span>)  
 
-- `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [PDF]  
+- `ACM CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [PDF]  
   <u>Fengyu Liu</u>, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025. (<span style="color:#B00C00">CCF-A</span>)  
   **<font color="#B00C00">&#9733; Distinguished Paper Award (<1% submission)</font>**
 
-- `CCS'25` **Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications** [PDF]  
+- `ACM CCS'25` **Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications** [PDF]  
   Qiyi Zhang<sup>\*</sup>, <u>Fengyu Liu<sup>*</sup></u>, Zihan Lin, Yuan Zhang (* co-first authors).  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025. (<span style="color:#B00C00">CCF-A</span>)  
 
@@ -77,12 +87,12 @@ My research interests includes **web security** and **LLM-based agent security**
   Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, Bocheng Xiang, Guangliang Yang, Letian Yuan, Lei Zhang, <u>Fengyu Liu</u>, Tian Chen, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
 
-- `S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications** [[PDF](/paper/mscan-oakland25.pdf)]  
+- `IEEE S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications** [[PDF](/paper/mscan-oakland25.pdf)]  
   <u>Fengyu Liu</u>, Yuan Zhang, Tian Chen, Youkun Shi, Guangliang Yang, Zihan Lin Min Yang, Junyao He, Qi Li.  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025. (<span style="color:#B00C00">CCF-A</span>)  
   **<font color="#B00C00">&#9733; Distinguished Paper Award (<1% submission)</font>**, Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]
 
-- `S&P'25` **MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications** [[PDF](/paper/mocguard-oakland25.pdf)]  
+- `IEEE S&P'25` **MOCGuard: Automatically Detecting Missing-Owner-Check Vulnerabilities in Java Web Applications** [[PDF](/paper/mocguard-oakland25.pdf)]  
   <u>Fengyu Liu</u>, Youkun Shi, Yuan Zhang, Guangliang Yang, Enhao Li, Min Yang.  
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025. (<span style="color:#B00C00">CCF-A</span>)     
 
