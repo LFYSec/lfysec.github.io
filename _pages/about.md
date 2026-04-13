@@ -21,6 +21,7 @@ Hello, I'm Fengyu Liu, a Ph.D. student in the System and Software Security Labor
 My research interests includes **web security** and **LLM-based agent security**. To date, I have published several papers at top-tier international security conferences, including IEEE S&P, ACM CCS, USENIX Security, TIFS, and TSE, and have received **Distinguished Paper Awards** from both **S&P'25** and **CCS'25**. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
 
 # 🔥 News
+- [*2026.04*] &nbsp;🎉 Three paper accepted by **ACM CCS 2026**!
 - [*2025.12*] &nbsp;🎉 One paper accepted by **USENIX Security 2026**!
 - [*2025.12*] &nbsp;🎉 One paper accepted by **NDSS 2026**!
 - [*2025.10*] &nbsp;🎉 Our paper received <span style="color:#B00C00">**Distinguished Paper Award**</span> at ACM CCS 2025!
@@ -44,6 +45,18 @@ My research interests includes **web security** and **LLM-based agent security**
 
 
 # 📝 Publications 
+- `ACM CCS'26` **BACAgent: LLM-Powered Detection of Broken-Access-Control Vulnerabilities in Web Applications** [PDF]  
+  <u>Fengyu Liu</u>, Yuan Zhang, Zheng Lou, Tian Chen, Youkun Shi, Jiarun Dai, Enhao Li, Guangyu Zhou, Zhongfu Su, Zequn Fang.  
+  In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026. (<span style="color:#B00C00">CCF-A</span>)  
+
+- `ACM CCS'26` **Reproducing Web Application Vulnerabilities with Patch-Guided Routing Inference and Sink Exploration** [PDF]  
+  Youkun Shi, Yuan Zhang, Feng Xue, Jiarun Dai, Lei Zhang, <u>Fengyu Liu</u>, Bocheng Xiang, Xiapu Luo.  
+  In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026. (<span style="color:#B00C00">CCF-A</span>)  
+
+- `ACM CCS'26` **PHPBench: Automated Generation of Verifiable and Hierarchical Benchmarks for PHP Web Fuzzing** [PDF]  
+  Youkun Shi, Yuan Zhang, Lei Zhang, Jiarun Dai, Tianhao Bai, <u>Fengyu Liu</u>, Bocheng Xiang, Xiapu Luo, Min Yang.  
+  In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026. (<span style="color:#B00C00">CCF-A</span>)  
+
 - `USENIX Security'26` **Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents** [PDF]  
   Jiaqi Luo, Jiarun Dai, <u>Fengyu Liu</u>, Songyang Peng, Youkun Shi, Tong Bu, Geng Hong, Xudong Pan, Yuan Zhang.  
   In Proceedings of the 35th USENIX Security Symposium (USENIX Security), Baltimore, MD, USA, August 12-14, 2026. (<span style="color:#B00C00">CCF-A</span>)
