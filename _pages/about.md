@@ -15,12 +15,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Fengyu Liu is a postdoctoral researcher in the [Advanced Software Technologies (AST) Lab](https://ast.ethz.ch/) at ETH Zürich, working under the supervision of Prof. [Zhendong Su](https://people.inf.ethz.ch/suz/). He received his Ph.D. degree from Fudan University, advised by Prof. [Yuan Zhang](https://yuanxzhang.github.io/) and Prof. [Min Yang](https://min-yang-fudan.github.io/). He was also the captain of Whitzard, Fudan University's CTF team.
 
-Hello, I'm Fengyu Liu, a Ph.D. student in the System and Software Security Laboratory at Fudan University, advised by Prof. [Yuan Zhang](https://yuanxzhang.github.io/) and Prof. [Min Yang](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en). I am also the captain of Whitzard, a great CTF team at Fudan University.
-
-My research interests includes **web security** and **LLM-based agent security**. To date, I have published several papers at top-tier international security conferences, including IEEE S&P, ACM CCS, USENIX Security, TIFS, and TSE, and have received **Distinguished Paper Awards** from both **S&P'25** and **CCS'25**. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
+His research interests lie in **web security** and **LLM-based agent security**. His work has appeared in leading security conferences, including IEEE S&P, ACM CCS, and USENIX Security. His papers have received **Distinguished Paper Awards** at **IEEE S&P 2025** and **ACM CCS 2025**, as well as an **Honorable Mention Award** at **USENIX Security 2025**. His research has been adopted by leading technology companies, including **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories published by Apple, Microsoft, and Intel.
 
 # 🔥 News
+- [*2026.09*] &nbsp;🎉 Two paper accepted by **IEEE S&P 2027**!
 - [*2026.07*] &nbsp;🎉 One paper accepted by **ACM CCS 2026**!
 - [*2026.07*] &nbsp;🎉 One paper accepted by **TIFS**!
 - [*2026.04*] &nbsp;🎉 Three paper accepted by **ACM CCS 2026**!
@@ -38,7 +38,8 @@ My research interests includes **web security** and **LLM-based agent security**
 
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D, Fudan University, School of Computer Science.
+- *2026.09 - now*, Postdoc, ETH Zürich, Department of Computer Science..
+- *2021.09 - 2026.06*, Ph.D, Fudan University, School of Computer Science.
 - *2017.09 - 2021.06*, B.Eng, Northwestern Polytechnical University, School of Computer Science.
 
 
