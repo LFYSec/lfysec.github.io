@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fengyu Liu"
   avatar           : "images/photo.jpg"
-  bio              : "Fudan University"
-  location         : "Shanghai, China"
+  bio              : "ETH Zürich"
+  location         : "Zürich, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oKIcUssAAAAJ"
