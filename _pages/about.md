@@ -28,7 +28,7 @@ My research focuses on **web security** and **LLM-based agent security**. My wor
 - `USENIX Security'25` **Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents** [[PDF](/paper/agentfuzz-security25.pdf)]  
   <u>Fengyu Liu</u>, Yuan Zhang, Jiaqi Luo, Jiarun Dai, Tian Chen, Letian Yuan, Zhengmin Yu, Youkun Shi, Ke Li, Hao Chen, Min Yang.  
   In *Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. (<span style="color:#B00C00">CCF-A</span>)   
-  Presented at **BlackHat Europe 2025** [[Talk Abstract](https://www.blackhat.com/eu-25/briefings/schedule/#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117)]
+  Presented at **BlackHat Europe 2025** [[Talk Abstract](https://blackhat.com/archive/europe/2025/briefings/schedule/index.html#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117)]
   
 - `IEEE S&P'25` **Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications** [[PDF](/paper/mscan-oakland25.pdf)]  
   <u>Fengyu Liu</u>, Yuan Zhang, Tian Chen, Youkun Shi, Guangliang Yang, Zihan Lin Min Yang, Junyao He, Qi Li.  
@@ -44,7 +44,7 @@ My research focuses on **web security** and **LLM-based agent security**. My wor
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025. (<span style="color:#B00C00">CCF-A</span>)  
   **<font color="#B00C00">&#9733; Distinguished Paper Award (<1% submission)</font>**
 
-- `ACM CCS'25` **Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications** [PDF]  
+- `ACM CCS'25` **Be Aware of What You Let Pass: Demystifying URL-based Authentication Bypass Vulnerability in Java Web Applications** [[PDF](/paper/uabscan-ccs25.pdf)]  
   Qiyi Zhang<sup>\*</sup>, <u>Fengyu Liu<sup>*</sup></u>, Zihan Lin, Yuan Zhang (* co-first authors).  
   In *Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS)*, October 2025. (<span style="color:#B00C00">CCF-A</span>)
 
