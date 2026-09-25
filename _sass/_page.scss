@@ -66,6 +66,13 @@
     border-bottom: 1px solid $border-color;
   }
 
+  .publication-full-list {
+    margin-left: 0.75em;
+    font-size: 0.65em;
+    font-weight: normal;
+    white-space: nowrap;
+  }
+
   p, li, dl {
     font-size: 1em;
   }

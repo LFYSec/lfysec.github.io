@@ -202,10 +202,23 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    justify-content: flex-end;
+    width: max-content;
+    min-width: 100%;
+
+    .masthead__menu-home-item {
+      margin-right: auto;
+    }
+
+    // Let greedy navigation measure the remaining links once its menu button appears.
+    @at-root .greedy-nav button:not(.hidden) ~ .visible-links {
+      min-width: 0;
+    }
 
     li {
-      display: table-cell;
+      display: flex;
+      align-items: center;
       vertical-align: middle;
 
       &:first-child {

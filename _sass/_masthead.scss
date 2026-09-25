@@ -50,6 +50,19 @@
   display: none !important;
 }
 
+.greedy-nav .masthead__menu-home-item a {
+  left: 1.25rem;
+  font-family: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Georgia, "Times New Roman", serif;
+  font-size: 1.4rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  color: #1a1a1a;
+
+  &:hover {
+    color: #15509e;
+  }
+}
+
 .masthead__menu-item {
   display: block;
   list-style-type: none;
@@ -60,5 +73,3 @@
     font-weight: 700;
   }
 }
-
-
